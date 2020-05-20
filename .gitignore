@@ -5,3 +5,4 @@
 **/*.h5
 **/runs
 *.pt
+!2. [딥러닝의 3 STEP 기초]/dataset
